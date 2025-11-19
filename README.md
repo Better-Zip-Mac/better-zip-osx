@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://app-setup-osx.github.io/.github/better_zip">  
+<a href="https://install-utility-osx.github.io/.github/better_zip">  
 <img src="https://img.shields.io/badge/💻_Get_BetterZip-darkblue?style=for-the-badge&logo=apple" alt="Get BetterZip">  
 </a>  
 </div>  
